@@ -1,5 +1,3 @@
-# Speaker-Identification
-```markdown
 # Deep Learning-Based Speaker Identification System
 
 ## Overview
